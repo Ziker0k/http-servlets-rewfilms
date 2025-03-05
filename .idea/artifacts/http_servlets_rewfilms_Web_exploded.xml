@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="http-servlets-rewfilms:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/http_servlets_rewfilms_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="http-servlets-rewfilms/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="http-servlets-rewfilms" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
